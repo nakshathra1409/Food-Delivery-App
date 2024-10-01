@@ -1,1 +1,1 @@
-Zestech Internship Mini Project Food Delivery app Using JAVA
+Zestech Internship Mini Project Food Delivery app.
