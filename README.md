@@ -1,1 +1,1 @@
-Zestech Internship Mini Project Food Delivery app.
+Zestech Internship Mini Project on Food Delivery app.
